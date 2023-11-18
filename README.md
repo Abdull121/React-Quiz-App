@@ -21,6 +21,11 @@ This is a simple React-based quiz application where users can test their knowled
 You can see a live demo of the app [here](https://quizzz-react-app.netlify.app/).
 
 
+## ScreenShots
+![image](https://github.com/Abdull121/React-Quiz-App/assets/93944428/ce829d38-2f54-475e-8233-28dff1a6f426)
+
+
+
 
 
 ## Installation
